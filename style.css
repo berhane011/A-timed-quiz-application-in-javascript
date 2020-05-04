@@ -1,0 +1,19 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.3rem;
+    
+
+   
+}
+#massage{
+    padding: 1rem;
+    text-align: center;
+}
+.btn{
+    display: block;
+    margin: 1.6rem;
+}
+.center{
+    padding-left: 1rem;
+    text-align: center;
+}
